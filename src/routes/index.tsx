@@ -9,7 +9,7 @@ import { cn } from "@/lib/utils";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Portfolio — Physical Science Student" },
+      { title: "Portfolio — Kavisha alwis" },
       { name: "description", content: "A retro, card-based portfolio of a first-year physical science student." },
       { property: "og:title", content: "Portfolio — Physical Science Student" },
       { property: "og:description", content: "Physics, maths and side quests — a retro card portfolio." },
