@@ -11,8 +11,8 @@ export const Route = createFileRoute("/")({
     meta: [
       { title: "Portfolio — Kavisha alwis" },
       { name: "description", content: "A retro, card-based portfolio of a first-year physical science student." },
-      { property: "og:title", content: "Portfolio — Physical Science Student" },
-      { property: "og:description", content: "Physics, maths and side quests — a retro card portfolio." },
+      { property: "og:title", content: "Portfolio — Kavisha Alwis" },
+      { property: "og:description", content: "Cs, maths and side quests — a retro card portfolio." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
