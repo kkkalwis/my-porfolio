@@ -35,8 +35,8 @@ export const cards: PortfolioCard[] = [
     glyph: "▲",
     intro: "Small builds and simulations. Every big project starts as a tiny one.",
     items: [
-      { k: "Sim", v: "Comming soon" },
-      { k: "Data", v: "Comming soon" },
+      { k: "Sim", v: "Coming soon" },
+      { k: "Data", v: "Coming soon" },
       { k: "Web", v: "This portfolio" },
     ],
   },
